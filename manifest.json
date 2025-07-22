@@ -1,8 +1,22 @@
 {
-  "name": "Calculadora de concreto",
-  "theme_color": "#000000",
-  "background_color": "#000000",
-  "short_name": "calc",
-  "id": "165",
-  "description": "Facilitar seu cálculo"
+  "name": "Calculadora de Concreto",
+  "short_name": "CalcConcreto",
+  "description": "Facilita o c\u00e1lculo de volume de concreto para constru\u00e7\u00e3o civil.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#ffffff",
+  "theme_color": "#ff6600",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
